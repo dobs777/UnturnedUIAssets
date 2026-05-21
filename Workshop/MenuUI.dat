@@ -1,0 +1,11 @@
+// Effect definition for MenuUI
+// Place at: [WorkshopItem]/Bundles/Effects/MenuUI/MenuUI.dat
+// Bundle .unity3d at: [WorkshopItem]/Bundles/Effects/MenuUI/MenuUI.unity3d
+
+ID 49000
+GUID 00000000000000000000000000000049
+Type Effect
+Lifetime 0
+Lifetime_Spread 0
+Spawn_On_Dedicated_Server true
+Prefab Effects/MenuUI/MenuUI
